@@ -1,0 +1,5 @@
+# Git Workshop
+
+* Why you should use `--ff-only` when using `git pull`
+* How do feature branches work? And how do I update them?
+* What is GitFlow, and how does it work?
